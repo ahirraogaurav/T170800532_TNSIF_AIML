@@ -19,14 +19,12 @@ Completed Google Colab notebooks are organized in the `Colab_Notebooks` folder. 
 ## 📂 Repository Structure
 
 ```text
-UID_TNSIF_AIML/
+T170800532_TNSIF_AIML/
 ├── README.md
 ├── Colab_Notebooks/
-│   ├── notebook_1.ipynb
-│   ├── notebook_2.ipynb
+│   ├── day1.ipynb
+│   ├── day2.ipynb
 │   └── other_completed_notebooks.ipynb
-├── Assignments/
-│   └── assignment_files
 └── Project/
     ├── README.md
     ├── source_code
